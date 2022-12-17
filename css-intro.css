@@ -1,0 +1,132 @@
+
+html {
+ font-size: 100%;
+ font-family: Times;
+}
+
+.all {
+ max-width: 80rem;
+ text-align: center;
+ box-sizing: border-box;
+}
+
+main{
+ width: 70%;
+ margin: auto;
+}
+
+/* ------------------------------ */
+
+/* title */
+h1 {
+ font-size: 1.9rem;
+ opacity: .75;
+ margin-top: 3rem;
+ padding: 0 .2rem;
+}
+
+/* img */
+#logo {
+ width: 200px;
+ margin: .7rem 0
+}
+
+.focaccia {
+ border-radius: 10px;
+ box-shadow: 100px ;
+ width: 100%;
+}
+
+/* lines */
+.line-orange {
+ margin-top: 1rem;
+ border-color: rgb(255, 193, 7);
+ opacity: .40;
+}
+
+.line-green {
+ margin-top: 1rem;
+ border-color: rgb(86, 197, 190);
+ opacity: .25;
+}
+
+/* text */
+#blue {
+ font-size: .7rem;
+ color: rgb(0, 108, 101);
+ background-color: rgba(255, 187, 1, 0.1) ;
+ padding: 1rem;
+ margin: -8px;
+ text-align: center;
+ box-sizing: border-box;
+}
+
+.boldblue {
+ font-weight: 600;
+}
+
+.author {
+ font-size: .9rem;
+ color: rgb(104, 104, 104, 0.7);
+ margin-top: 10px;
+}
+
+/* lists-subtitle */
+.ingredients {
+ text-align: left;
+ margin-top: 3rem;
+ opacity: .75;
+}
+
+.lista {
+ padding-left: 2rem ;
+}
+
+h2 {
+ font-size: 1.3rem;
+ text-align: left;
+ font-weight: 400;
+}
+
+h3 {
+ font-size: .9rem;
+ text-align: left;
+}
+
+/* lists */
+li {
+ font-size: .85rem;
+ padding: .4rem;
+}
+
+.m-list {
+ text-align: left;
+}
+
+.ordered-list {
+ padding: 0;
+}
+
+/* links + pragraph text */
+a {
+ color: rgb(0, 108, 101);
+}
+
+.txt {
+ font-size: .85rem;
+ opacity: .8;
+ text-align: justify;
+}
+
+/* featured */
+.f-link {
+ text-align: left;
+ padding-left: 2rem;
+ font-size: .85rem;
+}
+#featured {
+ color: rgb(193, 93, 5);
+ margin: 0;
+ margin-top: 2rem;
+}
+
